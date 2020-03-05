@@ -1,7 +1,7 @@
-# Read-Me for Project 1
-*Group Name: ML*
+# A Convolutional Neural Network to Classify Handwritten Characters
+Written with Python and Sci-kit Learn
 
-*Group Members: Jason Gibson, Abbas Furniturewalla, Marquita Ali, Omkar Mulekar*
+Jason Gibson, Abbas Furniturewalla, Marquita Ali, Omkar Mulekar
 
 ## How to Run:
 1) The function to call in your script is **TestModel()** located in *test.py*.  Import it to your script using "from **test** import **TestModel**". Restart the kernel before the first time you use this line.
@@ -13,7 +13,7 @@
 
 ## Other Details
 ### example_test.py
-This script is simply an example for the TAs to follow when using our code.
+This script is simply an example to follow when using our code.
 ```python
 # Import dependancy
 from test import TestModel
